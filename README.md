@@ -23,6 +23,6 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlegShapovalov1990&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlegShapovalov1990)](https://git.io/streak-stats)
 
 
