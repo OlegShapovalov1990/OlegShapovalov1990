@@ -9,4 +9,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-### :man_technologist: About Me :
+:man_technologist: About Me :
+I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
