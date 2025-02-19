@@ -23,6 +23,11 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 :fire: My Stats :
 
+
+
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/OlegShapovalov1990&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 
