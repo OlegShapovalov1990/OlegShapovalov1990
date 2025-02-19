@@ -20,3 +20,9 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ![FastAPI](https://img.shields.io/badge/FastAPI-316192?style=for-the-badge&logo=fastapi&logoColor=green)
 ![aiogram](https://img.shields.io/badge/aiogram-6DA55F?style=for-the-badge&logo=aiogram&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%238DD6F9.svg?style=for-the-badge&logo=django&logoColor=black)
+
+:fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=github.com/OlegShapovalov1990&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
+
