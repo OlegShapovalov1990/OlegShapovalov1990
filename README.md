@@ -18,3 +18,4 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=pythont&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-316192?style=for-the-badge&logo=fastapi&logoColor=green)
+![aiogram](https://img.shields.io/badge/aiogram-6DA55F?style=for-the-badge&logo=aiogram&logoColor=white)
