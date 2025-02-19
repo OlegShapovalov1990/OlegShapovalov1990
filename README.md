@@ -25,26 +25,6 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlegShapovalov1990)](https://git.io/streak-stats)
 
 
