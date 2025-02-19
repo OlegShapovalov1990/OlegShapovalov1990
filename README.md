@@ -28,6 +28,6 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=https://github.com/OlegShapovalov1990&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OlegShapovalov1990&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
