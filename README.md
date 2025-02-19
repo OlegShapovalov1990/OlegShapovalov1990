@@ -16,3 +16,5 @@ I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=pythont&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-316192?style=for-the-badge&logo=fastapi&logoColor=green)
