@@ -12,3 +12,7 @@
 :man_technologist: About Me :
 
 I am a Python backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+
+:hammer_and_wrench: Languages and Tools :
+
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=pythont&logoColor=black)
